@@ -92,7 +92,7 @@ No Minecraft installation needed — Redstone downloads everything automatically
 |----------|--------|
 | macOS (ARM64 & x64) | ✅ |
 | Linux x64 | ✅ |
-| Windows x64 | ✅ |
+| Windows x64 | ❌ |
 
 ## License
 
